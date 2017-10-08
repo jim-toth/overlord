@@ -1,5 +1,5 @@
 # Mutalisk
-A WebGL shader swarm server. Controls [Mutalisks](https://github.com/jim-toth/mutalisk) Proof-of-Concept.
+A WebGL shader swarm server. Controls [Mutalisks](https://github.com/jim-toth/mutalisk). Proof-of-Concept.
 
 ## Usage
 ### Install

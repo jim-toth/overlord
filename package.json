@@ -2,7 +2,7 @@
   "name": "overlord",
   "author": "Jim Toth",
   "version": "1.0.0",
-  "description": "",
+  "description": "A WebGL shader swarm server. Controls Mutalisks. Proof-of-Concept.",
   "homepage": "https://github.com/jim-toth/overlord#readme",
   "repository": {
     "type": "git",
