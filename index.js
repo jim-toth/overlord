@@ -1,4 +1,3 @@
-const chalk = require('chalk');
 var server = require('http').createServer();
 var io = require('socket.io')(server);
 
