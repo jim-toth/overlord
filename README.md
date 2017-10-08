@@ -1,4 +1,4 @@
-# Mutalisk
+# Overlord
 A WebGL shader swarm server. Controls [Mutalisks](https://github.com/jim-toth/mutalisk). Proof-of-Concept.
 
 ## Usage
