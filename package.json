@@ -1,0 +1,22 @@
+{
+  "name": "overlord",
+  "author": "Jim Toth",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/jim-toth/overlord#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jim-toth/overlord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jim-toth/overlord/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "socket.io": "^2.0.3"
+  }
+}
